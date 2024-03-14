@@ -1,7 +1,7 @@
 //GameBoard.js 
 
 import React from "react"; 
-import Data from "./data"; 
+import Data from "./Data"; 
 import Card from "./Card"; 
 function GameBoard() { 
 	const [cardsArray, setCardsArray] = React.useState([]); 
